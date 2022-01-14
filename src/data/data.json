@@ -1,22 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Coffee production AI Prediction site",
+    "paragraph": "This site is used for prediction of coffee production in Ethiopia for consecutive years"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "we used the publicly available data gathered by the Ethiopian Commodity Exchange(ECX). It is a marketplace, where buyers and sellers come together to trade, assured of quality, delivery and payment. The data is available publicly on their website in the form of a spreadsheet and it suits the requirements we need for the project."
   },
   "Gallery": [
     {
@@ -67,32 +55,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "img/about.jpg",
       "name": "Lorem ipsum dolor",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "img/about.jpg",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "img/about.jpg",
       "name": "Lorem ipsum dolor",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "img/about.jpg",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "img/about.jpg",
       "name": "Lorem ipsum dolor",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "img/about.jpg",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
@@ -152,33 +140,38 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "5 Kilo, Addis Ababa, Ethiopia ",
+    "phone": "+251 123 456 123",
+    "email": "info@gmail.com",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "youtube": "https://www.youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/yirgacheffe_coffee.jpg",
+      "title": "Yirgacheffe",
+      "text": "Yirgacheffe coffee is a wet processed coffee grown at elevations from 1,700 to 2,200 meters above sea level, and is the considered the best high grown coffee in southern Ethiopia, an exotic coffee region known for fine coffees."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/sidamo.jpg",
+      "title": "Sidamo",
+      "text": "A large area in the fertile highlands in the Rift Valley, Sidamo is one of three trademarked coffee regions in Ethiopia (along with Harrar and Yirgacheffe). It’s 1,550 to 2,200 m.a.s.l and has ample rainfall, optimum temperatures, and fertile soil."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/harar.jpg",
+      "title": "Harar",
+      "text": "This is a wild Arabica that is grown on small farms in the Oromia region (formerly Harrar) at elevations between 1,400 and 2,000 metres. It is typically natural processed."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/limu.jpg",
+      "title": "Limu",
+      "text": "Limu coffee grows in the southwest of Ethiopia at between 1,100 to 1,900 m.a.s.l. A washed coffee with relatively low acidity, it has a well-balanced body and a distinct spicy flavour that is pleasantly sweet and often has floral notes."
+    },
+    {
+      "img": "img/jimma.jpg",
+      "title": "Jimma",
+      "text": "This region in the southwest of Ethiopia is a large producer of commercial-grade coffee. It grows at an altitude of 1,400 to 2,100 m.a.s.l. Also spelled as Djimmah, coffees from this region are reportedly best when washed and can take on a medicinal flavour if natural processed."
     }
   ]
 }
